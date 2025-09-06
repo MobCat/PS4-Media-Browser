@@ -80238,5 +80238,35 @@
 	  "Content_ID": "IV0002-NPXS39041_00-STOREUPD00000000",
 	  "name_default": "Homebrew Store",
 	  "icon0": "https://github.com/LightningMods/PS4-Store/blob/master/App%20Media-Assets/sce_sys/icon0.png?raw=true"
+  },
+  "CUSA47783": {
+	  "Content_ID": "EB0324-CUSA47783_00-0175751090899728",
+	  "name_default": "Vampire Survivors",
+	  "icon0": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1109/a331284fd9dc56ec526e49afd7ee41d7aafa697e947816cf.png?w=512"
+  },
+  "CUSA32706": {
+	  "Content_ID": "UP3864-CUSA32706_00-0000000000000000",
+	  "name_default": "Unpacking",
+	  "icon0": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0118/A3KKgFFUTjKoxSc4ssAs61nF.png?w=512"
+  },
+  "CUSA33370": {
+	  "Content_ID": "EP4382-CUSA33370_00-GORICUDDLYCARNAG",
+	  "name_default": "Gori: Cuddly Carnage",
+	  "icon0": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2615/3424b1b387ab0ebdfe46944ac071ac66c6c14223f9ffeca9.png?w=512"
+  },
+  "CUSA24360": {
+	  "Content_ID": "UP0001-CUSA24360_00-MADGAMESCEA00000",
+	  "name_default": "Riders Republic",
+	  "icon0": "https://image.api.playstation.com/vulcan/img/rnd/202112/2100/7eEv1gTTKw9GA5OWi00yyT3s.png?w=512"
+  },
+  "SFIN00000": {
+	  "Content_ID": "SFIN00000",
+	  "name_default": "switchfin",
+	  "icon0": ""
+  },
+  "PKGI13337": {
+	  "Content_ID": "PKGI13337",
+	  "name_default": "FPKGi",
+	  "icon0": ""
   }
 }
